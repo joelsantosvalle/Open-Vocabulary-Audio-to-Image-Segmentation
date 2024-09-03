@@ -5,7 +5,7 @@
 | Category | Paper Title | Year | Conference | Keywords and Phrases | Link |
 |----------|-------------|------|------------|----------------------|------|
 | **Image Segmentation - Language-based Image Segmentation** | **PhraseCut: Language-based Image Segmentation in the Wild** | 2020 | CVPR | Image Segmentation, Language, Vision | [Link](https://ieeexplore.ieee.org/document/9157191) |
-| **Robotic Application - Human-to-Robot Handovers** | **Object-Independent Human-to-Robot Handovers Using Real-Time Robotic Vision** | 2021 | IEEE RA Letters | Robotic Vision, Human-Robot Interaction, Real-Time | [Link](https://ieeexplore.ieee.org/document/9206048) |
+| **Robotic Application** | **Object-Independent Human-to-Robot Handovers Using Real-Time Robotic Vision** | 2021 | IEEE RA Letters | Robotic Vision, Human-Robot Interaction, Real-Time | [Link](https://ieeexplore.ieee.org/document/9206048) |
 | **Deep Learning - Multimodal Learning** | **Deep Multimodal Learning: A Survey on Recent Advances and Trends** | 2017 | IEEE Signal Processing Magazine | Multimodal Learning, Deep Learning, Survey | [Link](https://ieeexplore.ieee.org/document/8103116) |
 | **Robotic Application** | **Open-Vocabulary Part-Based Grasping** | 2024 | arXiv | Grasping, Open-Vocabulary, Robotics | [Link](https://arxiv.org/abs/2406.05951) |
 | **Speech Recognition - Large Vocabulary Conversational Speech Recognition** | **Listen, Attend and Spell: A Neural Network for Large Vocabulary Conversational Speech Recognition** | 2016 | ICASSP | Speech Recognition, Neural Networks, ASR | [Link](https://ieeexplore.ieee.org/document/7472621) |
